@@ -704,8 +704,8 @@ img.img--with_border {
   -webkit-touch-callout: none;
   display: block;
   float: left;
-  margin: 0 12px 12px 0;
-  /*width: 171px;*/
+  /*margin: 0 12px 12px 0;
+  width: 171px;*/
   line-height: 0;
 }
 
